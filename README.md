@@ -2,11 +2,11 @@
 
 Dette er en gjenskapelse av eller en hyllest til min gode venn Tord sitt spill som han lagde når han var mellom 10-12 år gammel (ca år 1998-2000) og eksperimenterte med et program som heter GameMaker.
 
-Siden originalfilene er for alltid tapt, så er dette spillet designet på nytt fra minnene våre fra når vi spilte det som ung, og siden dette ble laget i forbindelse med Tords utdrikningslag så kunne vi ikke spørre han heller om detaljer.
+Siden originalfilene er tapt for alltid, så er dette spillet designet på nytt ut ifra minnene våre fra når vi spilte det som ung, og siden dette ble laget i forbindelse med Tords utdrikningslag så kunne vi ikke spørre han heller om detaljer.
 
-Spillet er laget i samme program som da, i GameMaker, bare ekstremt nyere versjon. Så hvis du vil laste ned kildekoden og redigere det så kan du gå inn på https://gamemaker.io/en/gamemaker og laste ned GameMaker. Klone ned prosjektet og åpne prosjektet. 
+Spillet er laget i samme program som da, i GameMaker, bare en ekstremt nyere versjon. Så hvis du vil laste ned kildekoden og leke med det så kan du gå inn på https://gamemaker.io/en/gamemaker og laste ned GameMaker. 
 
-Release er kun for Windows, men har muligheter til å eksporteres til macOS, Android, iOS m.m, så gjerne lag et issue hvis du vil ha spillet på din plattform.
+**Release er kun for Windows, men har muligheter til å eksporteres til macOS, Android, iOS m.m, så gjerne lag et issue hvis du vil ha spillet på din plattform.**
 
 ## Hva går spillet ut på?
 
