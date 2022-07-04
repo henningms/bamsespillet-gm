@@ -6,6 +6,8 @@ Siden originalfilene er for alltid tapt, så er dette spillet designet på nytt 
 
 Spillet er laget i samme program som da, i GameMaker, bare ekstremt nyere versjon. Så hvis du vil laste ned kildekoden og redigere det så kan du gå inn på https://gamemaker.io/en/gamemaker og laste ned GameMaker. Klone ned prosjektet og åpne prosjektet. 
 
+Release er kun for Windows, men har muligheter til å eksporteres til macOS, Android, iOS m.m, så gjerne lag et issue hvis du vil ha spillet på din plattform.
+
 ## Hva går spillet ut på?
 
 Du er en bamse som flyr rundt på et brett og målet ditt er å få tak i diamanten. Lett som bare det, eller?
@@ -21,3 +23,9 @@ Alt+Enter skifter mellom fullskjerm og vindumodus.
 
 
 ![Skjermbilde av bamsespillet](github/bamsespillet.png)
+
+## Demo
+
+![Bamespillet på en Surface på en makeshit stand](github/demo2.jpg)
+
+![Tord som spiller Bamsespillet igjen for første gang siden år 2000](github/demo1.jpg)
