@@ -26,6 +26,6 @@ Alt+Enter skifter mellom fullskjerm og vindumodus.
 
 ## Demo
 
-![Bamespillet på en Surface på en makeshit stand](github/demo2.jpg)
+![Bamespillet på en Surface på en makeshift stand](github/demo2.jpg)
 
 ![Tord som spiller Bamsespillet igjen for første gang siden år 2000](github/demo1.jpg)
